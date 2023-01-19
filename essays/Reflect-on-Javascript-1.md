@@ -9,9 +9,6 @@ labels:
   - Engineering
 ---
 
-[mqdefault](https://user-images.githubusercontent.com/122927921/213397118-f695ca23-c276-4e90-8dbb-cdc8d7290b86.jpg)
-
-
 ## JavaScript?! I Only Know of C++!
 
 
