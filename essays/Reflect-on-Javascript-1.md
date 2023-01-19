@@ -9,6 +9,8 @@ labels:
   - Engineering
 ---
 
+http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/09/What-is-JavaScript-1.png
+
 ## JavaScript?! I Only Know of C++!
 
 
