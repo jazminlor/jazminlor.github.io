@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "2 Weeks into Javascript: What I Have Learned and Compared"
+title: "Javascript: Insight On A Newbieʻs First Two Weeks"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-18
 published: true
@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-## Prior to Javascript
+## JavaScript?! I Only Know of C++!
 
 
 I have always heard of JavaScript, alongside with Java, to be one of the most well-known and popular programming languages used by many big name companies and brands. To my understanding, it is mainly used for design and web-page uses, such as making the web-pages interactive and making it look fancy.
@@ -27,10 +27,10 @@ After completing a brief yet thorough introduction to JavaScript and ES6 course,
 JavaScript has many shortcuts, it is more pleasing to the eye, and again, it is just so much more simple and less cluttered. It does not even require a compiler to run! Due to these reasons, I have found a huge remark that JavaScript saves tremendous time. If you can learn its shortcuts and how to simplify code, it applies even more!
 
 
-## Is JavaScript a Good Programming Language For My Future Career Endeavours?
+## JAVASCRIPT IS THE NEW BITCOIN! GET ON IT NOW!!
 
 
-No. Hard no. Although I believe that many and maybe even most programmers should know JavaScript and have experience with it, I do not believe it will take me far. At least not with just JavaScript under my hands. I believe that programmers should have a wide selection of different programming languages in order to do well and land a good, lifetime career. I really do like using JavaScript and I believe I will continue using it, even after college, but I do not think it is the strongest nor preferred language in many big companiesʻ eyes. I believe Java or Python are the real money makers if you want to land a high-paying job. Still, I plan to continue using it, because it is just so simple and easy.
+Just kidding. Although I believe that many and maybe even most programmers should know JavaScript and have experience with it, I do not believe it will take anyone far. At least not with just JavaScript under their hands. I believe that programmers should have a wide selection of different programming languages in order to do well and land a good, lifetime career. I really do like using JavaScript and I believe I will continue using it, even after college, but I do not think it is the strongest nor preferred language in many big companiesʻ eyes. I believe Java or Python are the real money makers if you want to land a high-paying job. Still, I plan to continue using it, because it is just so simple and easy.
 
 
 ## Overview of ICS 314 and Athletic Software Engineering
