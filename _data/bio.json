@@ -10,8 +10,7 @@
     "location": { "address": "", "postalCode": "96744", "city": "Kāne'ohe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jazminlor", "url": "http://github.com/jazminlor" },
-      { "network": "linkedin", "username": "", "url": "https://www.linkedin.com/in/jazminlor" },
-      { "network": "discord", "username": "waternuggets", "url": "waternuggets#4524" }
+      { "network": "linkedin", "username": "", "url": "https://www.linkedin.com/in/jazminlor" }
     ]
   },
   "interests": [
