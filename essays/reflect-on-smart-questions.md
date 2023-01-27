@@ -24,7 +24,7 @@ On the other hand, a not-so-smart question is quite literally the opposite liste
 
 ## If You Ask (correctly), You Shall Receive
 
-<img width="956" alt="Screenshot 2023-01-26 at 10 49 59 PM" src="https://user-images.githubusercontent.com/122927921/215045763-823d8cf5-cfa7-4587-b99a-ebb9e791074c.png">
+![] width="956" alt="Screenshot 2023-01-26 at 10 49 59 PM" src="https://user-images.githubusercontent.com/122927921/215045763-823d8cf5-cfa7-4587-b99a-ebb9e791074c.png" =300x300)
 
 [This](<img width="956" alt="Screenshot 2023-01-26 at 10 49 59 PM" src="https://user-images.githubusercontent.com/122927921/215045763-823d8cf5-cfa7-4587-b99a-ebb9e791074c.png">) is an example of a smart question. Here, they have correctly and accurately described what they were trying to accomplish. Their title gets straight to the point without begging for an answer and the question is posted with adequate tags corresponding to the topic. This person even described what they believe is the next step, but is asking if there is an alternative or if they are even heading in the correct direction. To potential responders, this shows that the poster has thought of and may have potentially come up with a solution already. They have clearly shown their interest and care with their efforts, which entices many others to want to respond and give feedback.
 
