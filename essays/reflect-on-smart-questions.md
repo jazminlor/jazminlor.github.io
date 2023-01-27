@@ -7,6 +7,8 @@ date: 2023-01-26
 published: true
 labels:
   - Engineering
+  - Questions
+  - Answers
 ---
 
 ## What exactly is a smart vs not-so-smart question?
@@ -24,15 +26,12 @@ On the other hand, a not-so-smart question is quite literally the opposite liste
 
 ## If You Ask (correctly), You Shall Receive
 
-![] width="956" alt="Screenshot 2023-01-26 at 10 49 59 PM" src="https://user-images.githubusercontent.com/122927921/215045763-823d8cf5-cfa7-4587-b99a-ebb9e791074c.png" =300x300)
+<img width="956" alt="Screenshot 2023-01-26 at 10 49 59 PM" src="https://user-images.githubusercontent.com/122927921/215045763-823d8cf5-cfa7-4587-b99a-ebb9e791074c.png">
 
 [This](<img width="956" alt="Screenshot 2023-01-26 at 10 49 59 PM" src="https://user-images.githubusercontent.com/122927921/215045763-823d8cf5-cfa7-4587-b99a-ebb9e791074c.png">) is an example of a smart question. Here, they have correctly and accurately described what they were trying to accomplish. Their title gets straight to the point without begging for an answer and the question is posted with adequate tags corresponding to the topic. This person even described what they believe is the next step, but is asking if there is an alternative or if they are even heading in the correct direction. To potential responders, this shows that the poster has thought of and may have potentially come up with a solution already. They have clearly shown their interest and care with their efforts, which entices many others to want to respond and give feedback.
 
-## JAVASCRIPT IS THE NEW BITCOIN! GET ON IT NOW!!
+## A Not So Smart Way To Ask A Question
 
+<img width="741" alt="Screenshot 2023-01-26 at 11 12 21 PM" src="https://user-images.githubusercontent.com/122927921/215050022-b270b13f-c6c7-4267-9afe-e844c021a7cc.png">
 
-
-## Insights and Thoughts
-
-
-
+[Here] (<img width="741" alt="Screenshot 2023-01-26 at 11 12 21 PM" src="https://user-images.githubusercontent.com/122927921/215050022-b270b13f-c6c7-4267-9afe-e844c021a7cc.png">), we have a person with an obnoxious title, "pls HELP ME HELP ME HELP ME HELP ME". Not only that, but they only explained that they were making a game in unity and received an error to their code. What are they even really asking? What exactly are they trying to accomplish in their code and how can someone help? This person was very unclear and only posted their code afterwards. Although they were techincally asking for feedback, they did so by being immature and too straight-forward. 
