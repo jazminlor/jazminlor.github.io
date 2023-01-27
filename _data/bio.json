@@ -14,10 +14,10 @@
     ]
   },
   "interests": [
-    { "name": "Reading" },
-    { "name": "Video Games" },
-    { "name": "Marvel Comics" },
-    { "name": "Restaurant and Customer Service" }
+    { "name": "Artificial Intelligence" },
+    { "name": "Game Design" },
+    { "name": "Data Science" },
+    { "name": "Web Design" }
   ],
   "skills": [
     {
