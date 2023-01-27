@@ -20,11 +20,13 @@ That means do not spend a whole essay on your question! No one wants to read a b
 to answer a question titled, "HELP PLEASE!!" or "IDK how to do (insert_function_here)". Usually, these posters will upload their question or given material and just expect an answer responses. No one (besides a robot) wants to help people like such! Actual helpful advisors will review what you did and give criticism or feedback in order to point you in the correct direction. That is what they are meant to do; they are not
 meant to just give you the answers. Lastly, it is notable to ask your questions in the correct websites and categories. For example, if you incorrectly ask your programming coding question in the cyber security section, the chances will only get slimmer of someone giving you helpful feedback.
 
-On the other hand, a not-so-smart question is quite literally the opposite listed above. They are questions just directly only asking for the answer. Instructions and material will be uploaded and the poster will just be expecting and wanting an answer. 
+On the other hand, a not-so-smart question is quite literally the opposite listed above. They are questions just directly only asking for the answer. Instructions and material will be uploaded and the poster will just be expecting and wanting an answer. It is easily detectable that they did not put in any effort into actually trying the problem themselves. Usually, the title of the post will give away just how immature or little-effort the question was given. Another way of asking a question a "not smart" way, is to make things way more complicated than they have to be. Similarly, giving too little information may just be as unhelpful. Questions could be interpreted incorrectly or the response may not be the response you were hoping for. 
 
-## What I Have Learned and Compared
+## If You Ask (correctly), You Shall Receive
 
+<img width="956" alt="Screenshot 2023-01-26 at 10 49 59 PM" src="https://user-images.githubusercontent.com/122927921/215045763-823d8cf5-cfa7-4587-b99a-ebb9e791074c.png">
 
+[This(<img width="956" alt="Screenshot 2023-01-26 at 10 49 59 PM" src="https://user-images.githubusercontent.com/122927921/215045763-823d8cf5-cfa7-4587-b99a-ebb9e791074c.png">)] is an example of a smart question. Here, they have correctly and accurately described what they were trying to accomplish. Their title gets straight to the point without begging for an answer and the question is posted with adequate tags corresponding to the topic. This person even described what they believe is the next step, but is asking if there is an alternative or if they are even heading in the correct direction. 
 
 ## JAVASCRIPT IS THE NEW BITCOIN! GET ON IT NOW!!
 
