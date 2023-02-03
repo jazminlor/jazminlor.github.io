@@ -12,5 +12,3 @@ gem "webrick", "~> 1.7"
 gem 'html-proofer'
 gem 'jekyll-gist'
 gem 'rouge'
-
-gem update --system 3.2.3
