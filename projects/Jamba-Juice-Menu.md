@@ -17,7 +17,7 @@ In this program, four JavaScript classes were created in order to represent four
 
 <img src="https:///user-images.githubusercontent.com/122927921/216520288-b17e6681-d305-4725-9b7e-6f159823b90e.jpg" width="500" height="600">
 
-For example, an item would be the drink "Strawberry Whirl", its ingredients, the different prices per size, and the specific number of calories for each size. You would then create a class that takes an ingredient string and return whichever smoothies has that specific ingredient. Your end result should be able to input an ingredient and it would find the smoothie names that has that ingredient included.
+For example, an item would be the drink "Strawberry Whirl", its ingredients, the different prices per size, and the specific number of calories for each size. You would then create a class that takes an ingredient string and return whichever smoothies has that specific ingredient. Your end result should be able to input an ingredient and it would find the smoothie names that has that ingredient included. My role was to create this program by myself as a "Workout of the Day". By completing this program, I learned a lot about creating classes and I also learned a new perspective on using const. This was also one of the first programs I have worked on using JavaScript, and boy, is it easy! I found it much easier to code and run compared to the languages I have used in the past.
 
 <hr>
 
@@ -33,8 +33,11 @@ Here is a showcase of the "MenuItem" class and the instances it takes:
 }
 
 const papayaSunrise = new MenuItem("Papaya Sunrise", ("papaya", "strawberry", "peach"), {small: 5.15, medium: 5.75, large: 6.55}, {small: 190, medium: 280, large: 330});
+
 const peachPerfection = new MenuItem("Peach Perfection", ("peach", "strawberry", "mango"), {small: 5.15, medium: 5.75, large: 6.55}, {small: 210, medium: 320, large: 360});
+
 const strawberryDragon = new MenuItem("Strawberry Dragon", ("pitaya", "strawberry", "orange", "passionfruit", "mango", "banana"), {small: 5.15, medium: 5.75, large: 6.55}, {small: 360, medium: 480, large: 610});
+
 const strawberryWhirl = new MenuItem("Strawberrquy Whirl", ("strawberry", "banana", "apple"), {small: 5.15, medium: 5.75, large: 6.55}, {small: 210, medium: 310, large: 380}); "
 
 
