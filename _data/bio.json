@@ -6,7 +6,7 @@
     "email": "lorj@hawaii.edu",
     "phone": "808-807-6903",
     "website": "https://jazminlor.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024. I aim to work as a software engineer in the future.",
     "location": { "address": "", "postalCode": "96744", "city": "Kāne'ohe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jazminlor", "url": "http://github.com/jazminlor" },
@@ -26,7 +26,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "Visual Studios" ]
+      "keywords": [ "MacOS", "Git/GitHub", "Visual Studios", "IntelliJ IDEA" ]
     }
   ],
   "education": [
