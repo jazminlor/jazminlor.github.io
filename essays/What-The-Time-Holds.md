@@ -23,3 +23,4 @@ When I finally transferred to UH at Mānoa, it was like a reset for me. I was st
 
 ## What The Future Holds
 
+<img src="https://user-images.githubusercontent.com/122927921/216579779-dcddab4f-1382-4f0c-a85f-7bd9a182b241.jpeg" width="50%" height="50%">
