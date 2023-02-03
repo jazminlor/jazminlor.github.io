@@ -8,6 +8,7 @@ published: true
 labels:
   - Fundraiser
   - Volunteer Work
+  - Group Work
 summary: "An adventure of preparing and wrapping for a Zongzi fundraiser"
 ---
 
