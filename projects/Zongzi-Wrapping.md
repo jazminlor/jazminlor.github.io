@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/zongziwrapping.jpeg
 title: "Zongzi Wrapping"
 date: 2017
 published: true
