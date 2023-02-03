@@ -44,4 +44,4 @@ const strawberryWhirl = new MenuItem("Strawberrquy Whirl", ("strawberry", "banan
 <hr>
 
 Source: <a href="https://courses.ics.hawaii.edu/ics314s23/morea/javascript-2/experience-jamba-juice-1.html"><i class="large github icon "></i>ICS-314-Course-Page-JJ1</a>
-
+Source Code: <a href="https://jsfiddle.net/Yubiq/jpmnhw6d/1/"><i class="large github icon "></i>Jamba-Juice-Menu</a>
