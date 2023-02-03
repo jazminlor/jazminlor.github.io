@@ -13,4 +13,4 @@ gem 'html-proofer'
 gem 'jekyll-gist'
 gem 'rouge'
 
-bundle add webrick
+gem update --system 3.2.3
