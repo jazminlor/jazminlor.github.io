@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: ![JAMBA-JUICE_Orange_Carrot_Karma_1920x976_tcm343-16949](https://user-images.githubusercontent.com/122927921/216521453-b1f6aa7a-425c-44d6-a68c-035a059f3d6d.jpg)
 title: "Jamba Juice Menu"
 date: 2023
 published: true
