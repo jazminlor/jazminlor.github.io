@@ -21,4 +21,5 @@ In this program, four JavaScript classes were created in order to represent four
 
 <hr>
 
-Source: <a href="(https://courses.ics.hawaii.edu/ics314s23/morea/javascript-2/experience-jamba-juice-1.html)"></i>ICS-314-Course-Page-JJ1</a>
+Source: <a href="https://courses.ics.hawaii.edu/ics314s23/morea/javascript-2/experience-jamba-juice-1.html"><i class="large github icon "></i>ICS-314-Course-Page-JJ1</a>
+
