@@ -11,7 +11,7 @@ labels:
 summary: "An adventure of preparing and wrapping for a Zongzi fundraiser"
 ---
 
-![zongzi](https://user-images.githubusercontent.com/122927921/216554069-8fef5e69-146f-4285-b3d4-2b8315ac9992.jpeg)
+<img src="https://user-images.githubusercontent.com/122927921/216554069-8fef5e69-146f-4285-b3d4-2b8315ac9992.jpeg" width="50%" height="50%">
 
 Have you ever eaten or seen one of these before?
 This is a Chinese (sticky) rice dumpling wrapped in bamboo leaves. It varies, but its filling usually consists of rice (or sticky rice), salted duck eggs, pork-- you name it! 
