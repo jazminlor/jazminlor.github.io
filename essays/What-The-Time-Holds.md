@@ -15,15 +15,11 @@ labels:
 
 ## The Journey Begins!
 
+My journey began at the start of college. I first went to the local community colleges from my hometown, Sacramento, California, for two years. I had my mind set on my major: Computer Science. Originally, I had no idea which field of Computer Science I wanted to be in. I thought of Cybersecurity, but my interests immediately shot down after I found out how challenging it was for me. 
 
-
-## In the context of engineering
-
-
-
-## In the context of relationships
+## The Journey Continues... at UH Mānoa
 
 
 
-## Okay!
+## What The Future Holds
 
