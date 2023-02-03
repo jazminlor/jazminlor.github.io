@@ -6,7 +6,7 @@
     "email": "lorj@hawaii.edu",
     "phone": "808-807-6903",
     "website": "https://jazminlor.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024. I aim to work as a software engineer in the future.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaiʻi at Mānoa. I expect to graduate in Spring, 2024. I aim to work as a software engineer in the future.",
     "location": { "address": "", "postalCode": "96744", "city": "Kāne'ohe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jazminlor", "url": "http://github.com/jazminlor" },
@@ -49,9 +49,10 @@
       "endDate": "2021-05-01",
       "summary": "Led and managed shifts and the team as the acting manager. Also opened, closed, and ensured goals to increase business sales and expectations",
       "highlights": [
-        "Guest satisfaction, acting manager",
+        "Guest satisfaction; acting manager",
         "Handled money and deposits",
-        "Payroll and comparing data on Excel and Paycom"
+        "Payroll and comparing sales data on Excel and Paycom",
+        "Trained and mentored incoming team members"
       ]
     },
     {
@@ -63,11 +64,25 @@
       "summary": "Managed restaurant and oversaw daily operations throughout all positions. Ran opening, mid, and closing shifts. Also served, bartended, and did office work when needed",
       "highlights": [
         "Oversaw daily operations and sales",
-        "Served, bartended, office work, payroll, and cooked",
-        "Ensured guest satisfaction"
+        "Served, bartended, secretary work, payroll, and cooked",
+        "Ensured guest satisfaction",
+        "Trained and supervised all positions under managerial"
       ]
     }
   ],
+  "volunteer": [
+    {
+      "company": "Martin Luther King, Jr. Library",
+      "position": "Volunteer",
+      "website": "https://www.saclibrary.org/Locations/Martin-Luther-King,-Jr",
+      "startDate": "2016",
+      "endDate": "2018",
+      "summary": "Restocked and reorganized bookshelves and aided in library-hosted public events": [
+        "Supervised children",
+        "Reset and reorganized desks, computers, and study areas",
+        "Tracked orders and books"
+      ]
+    },
   "references": [
     {
       "name": "Available upon request"
