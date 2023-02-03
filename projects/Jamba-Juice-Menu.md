@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ![JAMBA-JUICE_Orange_Carrot_Karma_1920x976_tcm343-16949](https://user-images.githubusercontent.com/122927921/216522435-d22942d7-d246-419e-a851-ee88db7eecd2.jpg)
+image: img/JAMBA-JUICE_Orange_Carrot_Karma_1920x976_tcm343-16949.jpg
 title: "Jamba Juice Menu"
 date: 2023
 published: true
@@ -15,7 +15,7 @@ summary: "A program containing JavaScript classes in order to create a Jamba Jui
 
 In this program, four JavaScript classes were created in order to represent four different menu items based off of a given picture. They were then used to define another class called "Menu". Here is the picture provided with the given menu itemsʻ prices, ingredients, and calories depending on size.
 
-<img src="https:///user-images.githubusercontent.com/122927921/216520288-b17e6681-d305-4725-9b7e-6f159823b90e.jpg" width="500" height="500">
+<img src="https:///user-images.githubusercontent.com/122927921/216520288-b17e6681-d305-4725-9b7e-6f159823b90e.jpg" width="400" height="700">
 
 For example, an item would be the drink "Strawberry Whirl", its ingredients, the different prices per size, and the specific number of calories for each size.
 
