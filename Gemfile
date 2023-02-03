@@ -12,3 +12,5 @@ gem "webrick", "~> 1.7"
 gem 'html-proofer'
 gem 'jekyll-gist'
 gem 'rouge'
+
+bundle add webrick
