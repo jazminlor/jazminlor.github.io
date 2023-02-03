@@ -13,7 +13,9 @@ summary: "A program containing JavaScript classes in order to create a Jamba Jui
 
 
 
-In this program, four JavaScript classes were created in order to represent four different menu items based off of a given picture. They were then used to define another class called "Menu". 
+In this program, four JavaScript classes were created in order to represent four different menu items based off of a given picture. They were then used to define another class called "Menu". Here is the picture provided with the given menu itemsʻ prices, ingredients, and calories depending on size.
+
+<img src="https:///user-images.githubusercontent.com/122927921/216520288-b17e6681-d305-4725-9b7e-6f159823b90e.jpg" width="50%" height="50%">
 
 </pre>
 
