@@ -17,7 +17,9 @@ labels:
 
 What even is Bootstrap 5? Bootstrap 5 is arguably the most popular free and open-source CSS framework for developing websites and apps. It includes HTML, JavaScript, and CSS. Typically, you can strictly use HTML and CSS to create a website, however, to make your life easier, it is highly advised to use Bootstrap 5. The difference between using Bootstrap 5 and only using HTML + CSS is that one will look much, much more appealing. With Bootstrap 5, you can add frames, create dropdown menus, menu buttons, icons, and much more. It is what makes a website so easy to use and it will attract more customers as well, due to the simplicity and looks. In my personal opinion, this is what a corporate or any big-name brands should already have implemented in their websites.
 
-To also note, if you take a look at the image above, it was created using Bootstrap 5.
+To also note, if you take a look at the image above, it was created using Bootstrap 5. By using Bootstrap 5, we were able to include social media icons, create a menu of the navigation bar when the page is minimized, and much more. The code provided below shows how the social media icons were implemented and how the menu (or nav) bar was created, so that when the page is minimized and the menu button is clicked, it gives a list of the menu bar. If left unclicked, the menu bar would be minimized and left empty with only the logo on the left and a menu button on the right.
+
+<img width="551" alt="Screenshot 2023-02-23 at 11 57 22 PM" src="https://user-images.githubusercontent.com/122927921/221149998-bb05ab70-8886-4ea0-944c-87cd4ce0e30f.png">
 
 ## My Ups and Downs With Bootstrap 5
 
