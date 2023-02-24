@@ -10,7 +10,7 @@ labels:
   - UI Frameworks
 ---
 
-<img width="1438" alt="Screenshot 2023-02-23 at 11 14 51 PM" src="https://user-images.githubusercontent.com/122927921/221140556-db3d3405-bf10-49c4-90da-a62fc9d29cbf.png" width="10%" height="10%">
+<img width="1438" alt="Screenshot 2023-02-23 at 11 14 51 PM" src="https://user-images.githubusercontent.com/122927921/221140556-db3d3405-bf10-49c4-90da-a62fc9d29cbf.png" width="50%" height="50%">
 
 
 ## And The Journey Begins!
