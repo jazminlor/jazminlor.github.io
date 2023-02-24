@@ -10,10 +10,10 @@ labels:
   - UI Frameworks
 ---
 
-![firststeps](https://user-images.githubusercontent.com/122927921/216571989-7514e90b-3c40-4b66-92cf-d86967cb5c9f.png)
+<img width="1438" alt="Screenshot 2023-02-23 at 11 14 51 PM" src="https://user-images.githubusercontent.com/122927921/221140556-db3d3405-bf10-49c4-90da-a62fc9d29cbf.png" width="10%" height="10%">
 
 
-## The Journey Begins!
+## And The Journey Begins!
 
 My journey began at the start of college. I first went to the local community colleges from my hometown, Sacramento, California, for two years. I had my mind set on my major: Computer Science. Originally, I had no idea which field of Computer Science I wanted to be in. I thought of Cybersecurity, but my interests immediately shot down after I found out how challenging it was for me. During my second year, I took a break from Computer Science courses. I knew I wanted to transfer to Hawaiʻi soon, so I only took the general requirement classes in order to avoid taking untransferable major courses. The reason for this? I had just recently found out that I had taken multiple courses at my local campuses that were not required at the University of Hawaiʻi at Mānoa, so it was personally a huge waste of time and money.
 
