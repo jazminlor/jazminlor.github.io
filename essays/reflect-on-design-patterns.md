@@ -33,5 +33,8 @@ Another example may be the "Singleton" design pattern. This pattern provides a "
 ## Has Any of This Even Helped Me?!
 
 
-YES, actually! 
+YES, actually! During my past and present coding experiences, I have always used design patterns. Before I even knew about design patterns, I was already using them.
 
+One specific instance is the MVC pattern using MongoDB, where my collections where made into a model, then to view it, we used Blaze. Lastly, we used a router as a controller. Now, as you should now, MVC stands for model, view, and controller. You will almost always see the MVC pattern being used, especially for user-interface applications. It is great to use for client/server purposes. This pattern divides the related program logic into the following three interconnected elements. 
+
+I have also used many other design patterns. A few to mention were the singleton, abstract factory, observer, and reactive data design patterns. More specifically, these were used in an application called "Bowfolios". Many of these design patterns were already implented in the template, but the others were added to it. 
