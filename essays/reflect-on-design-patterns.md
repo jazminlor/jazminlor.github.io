@@ -1,39 +1,37 @@
 ---
 layout: essay
 type: essay
-title: "Javascript: Insight On A Newbieʻs First Two Weeks"
+title: "Design Patterns: Building a House"
 # All dates must be YYYY-MM-DD format!
 date: 2023-04-28
-published: false
+published: true
 labels:
-  - Engineering
+  - Software Engineering
+  - Design Patterns
+  - Meteor
+  - MongoDB
 ---
 
-## JavaScript?! I Only Know of C++!
+## Building a House
+
+<img width="200px" class="rounded float-start pe-4" src="../img/cartoon-scene-of-building-house-construction-site-free-vector.jpg"> 
+
+To build a house, you need to have a nice, solid foundation first. Whether you are following a template, instructions, a manual, or whatever the case may be, you need to follow it with the legal and following protocals. Next comes the frame to the house, then installing the insulation. Afterwards, the drywall and interior walls are done. Then comes the final touches of the interior, which could be a collection of things. Doors, windows, decorations, vanities, cabinets, etc. The final touches of the exterior are after, which includes the driveway, any potential balconies/patios, walkways, and yard landscaping. Once all of these are complete and you have your plumbing, electrical, and and flooring installed, you have your finished product!
 
 
-I have always heard of JavaScript, alongside with Java, to be one of the most well-known and popular programming languages used by many big name companies and brands. To my understanding, it is mainly used for design and web-page uses, such as making the web-pages interactive and making it look fancy.
-
-However, before being introduced to JavaScript, the only programming language 
-I was ever introduced to and worked with was C++. In my opinion, C++ was quite complex to work with. C++ required such tedious code, had difficult syntax to work with, and was overall not a good introduction to coding for me. I struggled especially a lot during the beginning, but once I started to understand how to code and why my codes were not working, it got much easier! It was growing on me quickly and I appreciated the choice of a difficult introduction language. 
-
-**Spoiler Alert**: C++ is actually quite similar to JavaScript, which has been a huge help with my courses!
+## How Building a House Relates to Pattern Designs in Coding
 
 
-## What I Have Learned and Compared
+Believe it or not, they are actually quite familiar with each other. Just like building a house, coding first takes a template and goes on from there. These templates may include implented design patterns inside of them already. Designs such as the "Prototype Pattern", the "Observer Design Pattern", "Reactive Data", "MVC Design Patterns", etc may appear anywhere from the start to the finish of someone's code. 
+ 
+For example, the "Abstract Factory" design pattern is one of the most common design patterns there are. Just like the windows, doors, decorations, walls, etc. that you need for building a house, the Abstract Factory design pattern would be implented here for that. This design pattern creates an interface to create families of related objects. Or perhaps even if you are building a car, you need all of the car parts. The Abstract Factory will create all of these auto-parts. This pattern is even found in real life, such as the manufacturing pf Japanese automobiles; in this case, particularly the sheet metal stamping equipment. 
+
+Another example may be the "Singleton" design pattern. This pattern provides a "global variable" in an object oriented language that does not support global variables, and/or provide complex global state. In relation to builing a house, this could be the finished product, whereas in coding, it could be your profile. These would be put in a collection and it could return a global variable, such as "FinishedHouse" or "Profile". From there, you can put as many "FinishedHouse" products and you could produce a neighborhood with it, or filter it; do whatever you want with it. 
 
 
-After completing a brief yet thorough introduction to JavaScript and ES6 course, they use many of the same basic syntax. Not only that, but they are very similar to C++. I personally believe that understanding and writing JavaScript code is much, much simpler and easier than C++. Though, of course, C++ is the only thing I can even compare it to, because that is all that I know. 
-JavaScript has many shortcuts, it is more pleasing to the eye, and again, it is just so much more simple and less cluttered. It does not even require a compiler to run! Due to these reasons, I have found a huge remark that JavaScript saves tremendous time. If you can learn its shortcuts and how to simplify code, it applies even more!
+
+## Has Any of This Even Helped Me?!
 
 
-## JAVASCRIPT IS THE NEW BITCOIN! GET ON IT NOW!!
+YES, actually! 
 
-
-Just kidding. Although I believe that many and maybe even most programmers should know JavaScript and have experience with it, I do not believe it will take anyone far. At least not with just JavaScript under their hands. I believe that programmers should have a wide selection of different programming languages in order to do well and land a good, lifetime career. I really do like using JavaScript and I believe I will continue using it, even after college, but I do not think it is the strongest nor preferred language in many big companiesʻ eyes. I believe Java or Python are the real money-makers if you want to land a high-paying job. Still, I plan to continue using it, because it is just so simple and easy.
-
-
-## Overview of ICS 314 and Athletic Software Engineering
-
-
-This may be an unpopular opinion, but I actually like it! I really do enjoy how this ICS 314 course is structured and that athletic software engineering is used. I cannot even put to words how much I stress due to this course, but I know that if I just put the work into it and keep going, I will have at least tried and hopefully passed (even if just barely). Plus, on the bright side, it feels amazing when things finally click and I get the hang of things! It brings me back to when I was first introduced to coding; because I failed so much, I learned how to NOT fail. I learned the "whyʻs" and the "howʻs" of things. I struggle a lot with the practice WODs, but I learn more each time I do them. Not only that, but I also get more efficient. I believe that practice makes perfect, and with this courseʻs structure and style of learning, there will always be room for improvement. Therefore, I can firmly say that it will work for me.
