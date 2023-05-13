@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Tools To Be a Good Future Software Engineer"
 # All dates must be YYYY-MM-DD format!
-date: 2023-05-10
+date: 2023-05-12
 published: true
 labels:
   - Software Engineering
@@ -40,12 +40,18 @@ Another concept the entire class was introduced to was using and applying User I
 
 ## Agile Project Management
 
+<img width="200px" class="rounded float-start pe-4" src="../img/Agile-methodology.jpeg"> 
 
-sfsf
+
+Although we had many other concepts introduced to us, I would say that a last key important concept was Agile Project Management. This concept was an approach to planning and guiding a project's processes. As mentioned earlier, in the final project task, this was one of the keys in achieving our goal. First, we had to discuss the project and give each other's weaknesses and strengths. This gave us an idea of what our project would look like and who could tackle on various tasks. Next came analysis and strategizing. We had mockup pages and references as to what we wanted our application to look like, but we needed ideas as to how we could make this possible. 
+
+That is when peer review and attending office hours came into play. Huge props to our Professor! He gave us very many ideas and insights that neither one of us even thought of. For example, he thought of having conditions on items and making it where only users with a "@hawaii.edu" email can create an account. This was because we were really trying to emphasize on the fact that we wanted our web application to be as safe as possible for our students. This was because our concept for our web application was meant for University of Hawai'i students to sell and trade items and goods that they no longer use or need at an affordable price for other students. This web application would benefit both parties. 
+
+Our next step after this was execution. Everyone curated and put together their code and files. Lastly, it was Q&A's, evaluation, and monitoring. For this process, we gathered multiple peer reviews and feedback. There were many final touches and "Voila!!" our hard work was finally completed.
 
 
 ## My Experiences and What I Now Know
 
 
-dfgd
+Let me just say, I have gained a HUGE amount of respect for the software engineers out there! The amount of teamwork and peer review was very unexpected to me. In my personal opinion, I feel as though it takes more than just a teamwork to be a great software engineer. You need to be able to think critically, think as a team, learn how to cooperate and communicate with others, and most of all, you need connections. Whether that be to ask for help or for feedback, you need more than just your team and your skills. As many people say, you could even say that it takes a village. I also learned that there is much more to coding and applications that just web development. For example, coding is a huge part in AI and facial recognition. Even though those two things are very controversial right now, they would not be possible without the software engnieers behind them. 
 
