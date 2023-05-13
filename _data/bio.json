@@ -1,0 +1,93 @@
+{
+  "basics": {
+    "name": "Jazmin Lor",
+    "label": "Student",
+    "picture": "https://github.com/jazminlor.png",
+    "email": "lorj@hawaii.edu",
+    "phone": "808-807-6903",
+    "website": "https://jazminlor.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaiʻi at Mānoa. I expect to graduate in Spring, 2024. I aim to work as a software engineer in the future.",
+    "location": { "address": "", "postalCode": "96744", "city": "Kāne'ohe", "countryCode": "USA", "region": "Hawai'i" },
+    "profiles": [
+      { "network": "github", "username": "jazminlor", "url": "http://github.com/jazminlor" },
+      { "network": "linkedin", "username": "Jazmin Lor", "url": "https://www.linkedin.com/in/jazminlor" }
+    ]
+  },
+  "interests": [
+    { "name": "Artificial Intelligence" },
+    { "name": "Game Design" },
+    { "name": "Data Science" },
+    { "name": "Web Design" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub", "Visual Studios", "IntelliJ IDEA" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawai'i at Mānoa, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2021",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Jamba (Vitaligent)",
+      "position": "Team Lead",
+      "website": "https://www.jamba.com/",
+      "startDate": "2018-10-06",
+      "endDate": "2021-05-01",
+      "summary": "Led and managed shifts and the team as the acting manager. Also opened, closed, and ensured goals to increase business sales and expectations",
+      "highlights": [
+        "Guest satisfaction; acting manager",
+        "Handled money and deposits",
+        "Payroll and comparing sales data on Excel and Paycom",
+        "Trained and mentored incoming team members"
+      ]
+    },
+    {
+      "company": "The Old Spaghetti Factory",
+      "position": "Restaurant Supervisor",
+      "website": "https://www.osf.com/",
+      "startDate": "2021-07-01",
+      "endDate": "2022-11-26",
+      "summary": "Managed restaurant and oversaw daily operations throughout all positions. Ran opening, mid, and closing shifts. Also served, bartended, and did office work when needed",
+      "highlights": [
+        "Oversaw daily operations and sales",
+        "Served, bartended, secretary work, payroll, and cooked",
+        "Ensured guest satisfaction",
+        "Trained and supervised all positions under managerial"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "company": "Martin Luther King, Jr. Library",
+      "position": "Volunteer",
+      "website": "https://www.saclibrary.org/Locations/Martin-Luther-King,-Jr",
+      "startDate": "2016",
+      "endDate": "2018",
+      "summary": "Restocked and reorganized bookshelves and aided in library-hosted public events",
+      "highlights": [
+        "Supervised children",
+        "Reset and reorganized desks, computers, and study areas",
+        "Tracked orders and books"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
