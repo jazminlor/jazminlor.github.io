@@ -42,6 +42,6 @@ My contributions included (but not limited to):
 
 Here is an example of a page that I created. The "Categories" Page shows a list of categories and you are then able to click on the image or box to be redirected to existing listings under that category. Once you find a listing that you are interested in, you may then click on the listing box to be shown that listing's information.
 
-<img src="../img/Screenshot (38).png"> 
+<img width="700px" src="../img/Screenshot (38).png"> 
 
 If you are interested in this project or would like to see the deployed website, please visit our <a href="https://manoamarketplace.github.io/"><i class="latge github icon"></i>GitHub Homepage</a>.
