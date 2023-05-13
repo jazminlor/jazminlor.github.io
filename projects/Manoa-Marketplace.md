@@ -15,16 +15,30 @@ summary: "A web application for University of Hawai'i at Mānoa students to sell
 
 
 
-As a final project for my ICS 314 course, we were tasked with creating and building a web application with a random team. For my pointed team specifically, we were to create a web application similar to Craigslist, where UH Mānoa staff and faculty members could buy and sell goods. In turn, our team created the web application where only UH users can create an account and sign up with their "@hawaii.edu" email.
-
-<img src="https:///user-images.githubusercontent.com/122927921/216520288-b17e6681-d305-4725-9b7e-6f159823b90e.jpg" width="500" height="600">
+As a final project for my ICS 314 course, we were tasked with creating and building a web application with a random team. For my pointed team specifically, we were to create a web application similar to Craigslist, where UH Mānoa staff and faculty members could buy and sell goods. In turn, our team created the web application where only UH users can create an account and sign up with their "@hawaii.edu" email. This web application is designed to target UH Mānoa students to where they are able to sell and buy goods from other UH Mānoa students. If necessary, admins may be able to delete or edit their listings or profiles. 
 
 
-<hr>
 
-knlm
+Implemented in this web application were Javascript, HTML, React, Meteor, Bootstrap, and CSS. Github and DigitalOcean were the main sources for allowing us to collaborate and deploy our application as well.
 
-<hr>
 
-Source: <a href="https://courses.ics.hawaii.edu/ics314s23/morea/javascript-2/experience-jamba-juice-1.html"><i class="large github icon "></i>ICS-314-Course-Page-JJ1</a>
-Source Code: <a href="https://jsfiddle.net/Yubiq/jpmnhw6d/1/"><i class="large github icon "></i>Jamba-Juice-Menu</a>
+
+My contributions included (but not limited to): 
+  - Creation of Multiple Collections
+  - Added 50+ Default Listings
+  - Categories Page
+  - User Directory Page
+  - Create Profile Page
+  - Edit Profile Page
+  - Admin List Sellers Page
+  - Admin Reported Users/Listings Page
+  - Admin Edit Component and Pages
+  - Sign-Up Page
+  - Sign-In Page
+  - Updating and Editing the style.css File + User Interface Designs
+
+Here is an example of a page that I created. The "Categories" Page shows a list of categories and you are then able to click on the image or box to be redirected to existing listings under that category. Once you find a listing that you are interested in, you may then click on the listing box to be shown that listing's information.
+
+<img width="200px" src="../img/Screenshot (38).png"> 
+
+If you are interested in this project or would like to see the deployed website, please visit our <a href="https://manoamarketplace.github.io/"><i class="latge github icon"></i>GitHub Homepage</a>.
