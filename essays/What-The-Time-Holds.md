@@ -4,7 +4,7 @@ type: essay
 title: "What The Past, Present, and Future Holds"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-02
-published: true
+published: false
 labels:
   - Personal Background
   - Goals
