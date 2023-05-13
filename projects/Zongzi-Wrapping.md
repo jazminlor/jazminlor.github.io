@@ -9,7 +9,7 @@ labels:
   - Fundraiser
   - Volunteer Work
   - Group Work
-summary: "An adventure of preparing and wrapping for a Zongzi fundraiser"
+summary: "An adventure of preparing and wrapping for a Zongzi fundraiser."
 ---
 
 <img src="https://user-images.githubusercontent.com/122927921/216554069-8fef5e69-146f-4285-b3d4-2b8315ac9992.jpeg" width="50%" height="50%">
