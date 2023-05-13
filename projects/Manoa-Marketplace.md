@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/manoa-marketplace-logo.png
+image: img/manoa-marketplace-logo_2.png
 title: "Mānoa Marketplace"
 date: 2023
 published: true
