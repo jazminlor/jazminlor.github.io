@@ -4,7 +4,7 @@ type: essay
 title: "Why Follow Coding Standards?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-09
-published: true
+published: false
 labels:
   - Coding Standards
   - Implentation
