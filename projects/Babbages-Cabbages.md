@@ -4,7 +4,7 @@ type: project
 image: img/paycheck.jpeg
 title: "Babbageʻs Cabbages"
 date: 2020
-published: true
+published: false
 labels:
   - C++
   - Programming
